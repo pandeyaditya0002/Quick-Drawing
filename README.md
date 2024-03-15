@@ -1,3 +1,6 @@
+![Take Look](./Quick-Drawing.jpg)
+
+
 
 
 ## Getting Started
