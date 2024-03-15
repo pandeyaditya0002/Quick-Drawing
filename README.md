@@ -1,4 +1,4 @@
-![Take Look](./Quick-Drawing.jpg)
+![Take A Look](./Quick-Drawing.jpg)
 
 
 
